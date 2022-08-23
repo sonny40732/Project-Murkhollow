@@ -1,0 +1,31 @@
+#written by sonny40732 8/23/2022
+
+## random files in the base dir
+.ReAuth.cfg
+.curseclient
+crafttweaker.log
+BotaniaVars.dat
+minecraftinstance.json
+options.txt
+optionsof.txt
+roots.log
+usercache.json
+usernamecache.json
+
+## folders in the dir that are non important or player specific
+.mixin.out/
+.vscode/
+astralsorcery/
+crash-reports/
+downloads/
+dumps/
+journeymap/
+llibrary/
+local/
+logs/
+mods/
+patchouli_books/
+saves/
+shaderpacks/
+snapshots-server/
+patchouli_data.json
