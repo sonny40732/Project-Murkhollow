@@ -1,0 +1,14 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+rats:pet_shop_owner
+rats:plague_doctor
+roots:wild_mage
+bewitchment:hedge_witch
+bewitchment:alchemist
+forestry:apiarist
+forestry:arborist
+immersiveengineering:engineer
