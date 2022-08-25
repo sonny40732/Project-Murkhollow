@@ -11,6 +11,8 @@ optionsof.txt
 roots.log
 usercache.json
 usernamecache.json
+mtservers.dat
+servers.dat
 
 ## folders in the dir that are non important or player specific
 .mixin.out/
@@ -29,3 +31,4 @@ saves/
 shaderpacks/
 snapshots-server/
 patchouli_data.json
+config/jei/worldSettings.cfg
